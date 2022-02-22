@@ -1,0 +1,12 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+		Sirven para guardar datos y luego reciben informacion mas adelante.
+	* Strings
+		son un tipo de datos de solo texto el cual va dentro de comillas.
+	* Funciones (argumentos, `return`)
+		Son tipos particulares de objetos llamados calleble objects u objetos invocables, el return sirva para devolver la funcion.
+	* Declaraciones `if`
+		sirven para generar una condicion de algun objeto.
+	* Valores booleanos (`true`, `false`)
+		vienen del metodo de boole el cual son 0 y 1 y solo dan dos resultados true o false.
