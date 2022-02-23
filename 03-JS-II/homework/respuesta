@@ -1,0 +1,6 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+es un bulce similiar al if pero un poco mas complejo, sirve para incrementar datos hasta llegar a una falsedad y sale del bucle
+* `&&`, `||`, `!`
+el operador and funciona si las dos condicones son verdaderas, el operador or funciona si una de las condiciones es verdadera, y el operador not es la inversa de todo.
